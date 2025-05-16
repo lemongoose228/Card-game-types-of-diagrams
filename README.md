@@ -1,6 +1,7 @@
 # Card-game-types-of-diagrams
 
-[Uploading Правила игры.pdf…]()
+![Uploading Правила игры.png…]()
+
 
 # Типы карточек
 
