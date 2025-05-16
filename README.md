@@ -1,8 +1,5 @@
 # Card-game-types-of-diagrams
 
-![Uploading Правила игры.png…]()
-
-
 # Типы карточек
 
 ## Теоретические
